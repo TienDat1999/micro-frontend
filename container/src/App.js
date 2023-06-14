@@ -5,7 +5,7 @@ export default () => {
   return (
     <div>
       <h1>Hi there</h1>
-      <h2>Hi there, im tester</h2>
+      <h2>Hi there, im tester, hehhe</h2>
       <hr />
       <MarketingApp />
     </div>
