@@ -14,7 +14,7 @@ const prodConfig = {
     plugins: [
         new ModuleFederationPlugin({
             name: 'container',
-            filename: 'remoteEntry.js',
+            // filename: 'remoteEntry.js',
             remotes: {
                 marketing: `marketing@${domain}/marketing/remoteEntry.js`,
             },
